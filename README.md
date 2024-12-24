@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Certifications
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=flat-square" />
